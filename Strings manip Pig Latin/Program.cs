@@ -120,11 +120,11 @@ namespace Strings_manip_Pig_Latin
 
                     if (firstVowel == -1)
                     {
-                        return $"{s}way";
+                        return s;
                     }
                 }
 
-                return $"{s.Substring(firstVowel)}{s.Substring(0,firstVowel)}way";
+                return $"{s.Substring(firstVowel)}{s.Substring(0,firstVowel)}ay";
             }
         } 
         // method identifies if a given string contains any special characters or numbers
