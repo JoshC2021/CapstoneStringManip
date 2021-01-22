@@ -129,7 +129,7 @@ namespace Strings_manip_Pig_Latin
         } 
         // method identifies if a given string contains any special characters or numbers
         // contained within the string
-        // also checks for normal punctuation not being at they end of a word
+        // also checks for normal punctuation not being at the end of a word
         public static bool IsImproperWord(string s)
         {
             if(s.Contains("?"))
