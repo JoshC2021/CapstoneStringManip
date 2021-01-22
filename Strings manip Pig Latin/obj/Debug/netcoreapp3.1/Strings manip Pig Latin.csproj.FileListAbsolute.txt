@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\obj\Debug\netcoreapp3.1\Strings manip Pig Latin.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\obj\Debug\netcoreapp3.1\Strings manip Pig Latin.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\obj\Debug\netcoreapp3.1\Strings manip Pig Latin.AssemblyInfo.cs
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\obj\Debug\netcoreapp3.1\Strings manip Pig Latin.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\bin\Debug\netcoreapp3.1\Strings manip Pig Latin.exe
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\bin\Debug\netcoreapp3.1\Strings manip Pig Latin.deps.json
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\bin\Debug\netcoreapp3.1\Strings manip Pig Latin.runtimeconfig.json
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\bin\Debug\netcoreapp3.1\Strings manip Pig Latin.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\bin\Debug\netcoreapp3.1\Strings manip Pig Latin.dll
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\bin\Debug\netcoreapp3.1\Strings manip Pig Latin.pdb
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\obj\Debug\netcoreapp3.1\Strings manip Pig Latin.dll
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\obj\Debug\netcoreapp3.1\Strings manip Pig Latin.pdb
+C:\Users\Josh\source\repos\Strings manip Pig Latin\Strings manip Pig Latin\obj\Debug\netcoreapp3.1\Strings manip Pig Latin.genruntimeconfig.cache
