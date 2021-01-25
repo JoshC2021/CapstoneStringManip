@@ -115,7 +115,7 @@ namespace Strings_manip_Pig_Latin
                     }
                 }
                 int yVowel = s.IndexOf("y"); // used for finding y acting as vowels
-                if (yVowel != -1 && yVowel !=0 && yVowel != s.Length)
+                if (yVowel != -1 && yVowel !=0 && yVowel != s.Length-1)
                 {
                  if(firstVowel == -1)
                  {
