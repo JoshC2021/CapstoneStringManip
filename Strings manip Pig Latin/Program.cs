@@ -114,6 +114,26 @@ namespace Strings_manip_Pig_Latin
                         firstVowel = i;
                     }
                 }
+                int yVowel = s.IndexOf("y"); // used for finding y acting as vowels
+                if (yVowel != -1 && yVowel !=0 && yVowel != s.Length)
+                {
+                 if(firstVowel == -1)
+                 {
+                        firstVowel = yVowel;
+                 }
+                 foreach (char letter in vowels)
+                 {
+                        if(s.Substring(yVowel-1,1) != letter.ToString() && s.Substring(yVowel + 1, 1) != letter.ToString())
+                        {
+                            if(yVowel<firstVowel)
+                            {
+                                firstVowel = yVowel;
+                            }
+                        }
+                 }
+
+                }
+
                 if(firstVowel == -1) // given string might have y for the vowel or none
                 {
                     firstVowel = s.IndexOf("y"); // Equates to -1 if no y
